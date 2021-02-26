@@ -12,4 +12,4 @@
   –The game is won when a player holds three consecutive blocks, either horizontally, vertically or diagonally.
 
 # Tools and Technologies
-Eclipse IDE and Java as language
+Eclipse IDE and Java Language
